@@ -49,7 +49,7 @@ function Contact() {
               </p>
 
               <a
-                href="sujalghanwat556@gmail.com"
+                href="mailto:sujalghanwat556@gmail.com"
                 className="mt-6 inline-flex items-center gap-2 rounded-xl bg-violet-500 px-5 py-3 font-medium text-white transition hover:bg-violet-600"
               >
                 <FiSend />
